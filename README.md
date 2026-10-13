@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
