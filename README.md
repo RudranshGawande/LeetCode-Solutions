@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -69,6 +70,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -81,4 +83,8 @@
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
