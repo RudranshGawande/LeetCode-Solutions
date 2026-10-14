@@ -5,10 +5,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -17,6 +19,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -41,9 +44,18 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
