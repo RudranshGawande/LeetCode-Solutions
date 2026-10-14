@@ -50,16 +50,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -74,6 +77,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Bit Manipulation
 |  |
