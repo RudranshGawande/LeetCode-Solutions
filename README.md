@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0225-implement-stack-using-queues](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
@@ -139,4 +142,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
