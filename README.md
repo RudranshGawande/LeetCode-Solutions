@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Linked List
 |  |
@@ -111,6 +112,7 @@
 | [0012-integer-to-roman](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
@@ -126,4 +128,9 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
