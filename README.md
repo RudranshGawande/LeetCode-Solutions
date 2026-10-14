@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
@@ -89,6 +91,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
