@@ -24,6 +24,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0278-first-bad-version](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
