@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Linked List
 |  |
@@ -48,6 +50,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0897-increasing-order-search-tree](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
@@ -62,6 +65,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Interactive
 |  |
@@ -70,5 +74,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/RudranshGawande/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
